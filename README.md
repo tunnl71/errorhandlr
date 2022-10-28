@@ -1,3 +1,3 @@
 # errorhandlr
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://github.com/tunnel71/errorhandlr/blob/main/webpage-demo.gif?raw=true)
